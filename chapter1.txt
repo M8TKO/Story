@@ -1,2 +1,3 @@
 Hello!
 git
+oov se sad kao mijenaja
